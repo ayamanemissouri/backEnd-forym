@@ -1,0 +1,5 @@
+{
+    "port" : 5000,
+    "production" : false,
+    "DATABASE" : "mongodb://localhost:27017/forum"
+}
